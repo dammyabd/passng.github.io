@@ -1,0 +1,546 @@
+
+/*social media background color */
+/* headerside */
+.socialcolor{
+	background-color:rgb(134, 165, 27);
+}
+.socialcolor  i {
+	font-size: 12px;
+	color: white;
+}
+
+/* to give space between the number and icons */
+.socm2 .fa{
+	margin-right: 4px;
+}
+
+.socialcolor h2{
+	font-size: 14px;
+	color: white;
+display: inline;
+}
+.phonenum :hover{
+	background-color:  #597a0a;
+	border-radius: 7px;
+}
+/* padding for the header background */
+.socm2{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	letter-spacing: 1px;
+}
+.ul-soc .fa{ 
+	color: white;
+	font-size: 17px;
+	margin-right: 20px;
+	padding: 5px;
+}
+.ul-soc{
+	padding-top: 10px;
+	float: right;
+}
+.ul-soc li:hover{
+ background-color: #597a0a;
+ border-radius: 5px;
+}
+.test {
+	margin-top: 30px !important;
+	margin-bottom: 25px;
+	/* margin-left: 90px; */
+	/* font-family: ubuntu, ABeeZee Regular; */
+    font-weight: 800px;
+    font-size: 20px;
+}
+/* for the background screen */
+.fd-screen{
+	background-image: url(image/display.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: fixed;
+	width: 100%;
+
+}
+.ul-square{
+	text-align: center;
+	letter-spacing: 4px;
+	color: white;
+	font-size: 14px;
+	padding-top: 45px;
+	padding-bottom: 100px;
+	font-family: ubuntu, sans-serif;
+}
+
+.sqlist li{
+	margin-right: 30px;
+	font-size: 13px;
+	letter-spacing: 3.5px;
+	font-weight: 500px;
+}
+/* ends here */
+/* hero starts here */
+.hero{
+	text-align: center;
+	font-family: ubuntu, sans-serif;
+}
+.hero .prp{
+	font-size: 30px;
+	font-weight: 700px;
+	letter-spacing: 0.8px;
+	padding-top: 120px;
+	color: white;
+}
+.hero .pass{
+	color: white;
+	font-size: 30px;
+	font-weight: 700px;
+	letter-spacing: 0.8;
+}
+/*practice starts here*/
+.me h2{
+		 color:  #78a214;
+		 font-size: 25px;
+		 padding-top: 15px;
+		 font-weight: 600px;
+		 margin-bottom: 0px;
+		}
+		.me p{
+			font-size: 12px;
+			letter-spacing: 0.5px;
+		}
+		 .me img{
+		 	width: 15%;
+		 	height: auto;
+		 }
+		 
+		 .me{
+		 	text-align: center;
+		 	margin-top: 50px;
+		 	border-right: 1px solid #d3d3d3;
+		 	margin-bottom: 10px;
+		 }
+		 /* for the buttons near the diagram*/
+		 .btn-start {
+		 	background-color:#fff!important;
+		 	color: #000!important;
+		 	box-shadow: 2px 2px 2px 2px #d3d3d3;
+		 	padding-right: 25px!important;
+		 	padding-left: 25px!important;
+		 	padding-top: 12px!important;
+		 	padding-bottom:12px!important;
+		 	margin-top:20px;
+		 	margin-bottom: 30px;
+
+		 }
+		 /*background padding for the much buttons */ 
+		 .butn1{
+		 	background-color: whitesmoke;
+		 	padding: 0px 10px 10px 10px;
+		 }
+/* buttons for school of nursin post ume test ,jamb exam */
+		 .btn-button {
+		 	background-color: #94b71d;
+		 	color: white;
+		 	font-family: ubuntu, sans-serif;
+		 	font-weight: 700px;
+		 	width: 100%;
+		 	height: 33px;
+		 	box-sizing: content-box;
+		 	border-radius: 0;
+			 }
+			 .pad{
+			 	padding-right: 30px!important;
+			 	padding-left: 30px!important;
+			 }
+		 /* buttons for waectest unilag diploma unilag masters*/
+		 .btn-button1 {
+		 	background-color: rgb(148, 183, 29);
+		 	color: white;
+		 	font-family: ubuntu, sans-serif;
+		 	font-weight: 700px;
+		 	width: 100%;
+		 	height: 33px;
+		 	box-sizing: content-box;
+		 	border-radius: 0;
+		 }
+		 .marg{
+		 	margin-top: 20px;
+		 	width: 100%;
+		 }
+/*buttons for mock test, n-power*/
+                  
+                  /* so this affects all the buttons hover */
+             .pad button:hover{
+            	background-color: #597a0a;
+            }
+            /* ends here */
+		 .btn-button2 {
+		 	background-color: rgb(148, 183, 29);
+		 	color: white;
+		 	font-family: ubuntu, sans-serif;
+		 	font-weight: 700px;
+		 	width:100%;
+		 	height: 33px;
+		 	border-radius: 0;
+		 	box-sizing: content-box;
+		 }
+		 .marg2{
+		 	margin-top: 20px;
+		 	width: 100%;
+		 }
+		 .neco{
+		 	margin-right: 5%;
+		 }
+		 .mock{
+		 	margin-left: 5%;
+		 }
+/* buttons for common entranc junior waec dpr */
+		 .btn-button3 {
+		 	background-color: rgb(148, 183, 29);
+		 	color: white;
+		 	font-family: ubuntu, sans-serif;
+		 	font-weight: 700px;
+		 	width: 100%;
+		 	height: 33px;
+		 	box-sizing: content-box;
+		 	border-radius: 0;
+		 }
+		 .marg3{
+		 	margin-top: 20px;
+		 	width: 100%;
+			 	}
+	.common{
+		 	margin-right: 9%;
+		 }
+		 .junior{
+		 	margin-left: 10%;
+		 }
+/* buttons for ican and aptitude test */
+		 .btn-button4 {
+		 	background-color: #94b71d;
+		 	color: white;
+		 	font-family: ubuntu, sans-serif;
+		 	font-weight: 700px;
+		 	width: 100%;
+		 	height: 33px;
+		 	box-sizing: content-box;
+		 	border-radius: 0;
+		 }
+		 .marg4{
+		 	margin-top: 20px;
+		 	width: 100%;
+		 }
+		 .ican{
+		 	margin-right: 13%;
+		 }
+		 /* laptop image line */
+		 .laptop img{
+		 	width: 67%;
+			height: auto;
+			display: block;
+			margin: 0 auto;
+		 	margin-top: 105px;
+		 }
+		 .laptop1 h2{
+	
+		 	font-size: 220%;
+		 	font-weight: bold;
+		 	margin-top: 18%;
+		 	margin-right:33%;
+
+		 }
+		 .laptop1 p{
+		 	font-weight: bold;
+		 	margin-right: auto;
+		 	margin-left: auto;
+		 	margin-top: 5%;
+		 	font-size: 100%;
+		 }
+		 .btn-button5{
+		 	background-color: #94b71d;
+		 	color: white;
+		 	width: 30%;
+		 	height: 12%;
+		 	margin-right: 66%;
+		 }
+
+		 .laptop1 h6{
+		 	margin-right: 83%;
+		 	margin-top: 3%;
+		 }
+		 /* tell me more line */
+		 .tellme{
+		 	background-color: #94b71d;
+		 	margin-top: 10%;
+			padding-top:19px;
+			padding-bottom:19px;
+		
+		 }
+		 .tellme h6{
+		 	color: white;
+		 }
+		 .bor{
+		 	border: solid 2px;
+		 	max-width: 150px;
+			height: 61%;
+			padding: 5px 10px;
+			color: #fff !important;
+			border-color: #fff;
+		 }
+		 /* download our android app */
+		 
+		 	
+		 .app {
+		 	color: #94b71d;
+		 	font-size: 32px;
+		 	font-weight: 400px;
+		 	margin-top: 20%;
+		 	margin-left: 33%;
+		 }
+		 .btn-button6{
+		 	background-color:#94b71d;
+		 	color: white;
+		 	margin-left: 55%; 
+		 	width: 28%;
+		 	height: 11%;
+		 	margin-top: 3%;
+
+		 }
+		 .pp{
+		 	margin-left: 33%;
+		 }
+		 .im img{
+		 	width: 62%;
+		 	margin-top: 10%;
+		 	box-shadow: 5px 5px 5px 5px #d3d3d3;
+		 	margin-right: 35%;
+		 }
+		 /*locate atutorial centre */
+		 .fi{
+		 	margin-top: 7%;
+		 }
+		 .fi img{
+		 	width: 10%;
+		 	margin-left: 43%;
+		 }
+		 .fi h4{
+		 	font-size: 17px;
+		 	margin-top: 3%;
+		 	margin-left: 36%;
+		 }
+		 .fi p{
+		 	width:58%;
+		 	margin-left: 20%;
+		 	font-size:13px; 
+		 	margin-top: 3%;
+		 }
+		 .btn-button7{
+		 	background-color: #fff;
+		 	width: 24%;
+		 	height: 17%;
+		 	box-shadow: 4px 4px 4px 4px #d3d3d3;
+		 	margin-left: 35%;
+		 	margin-top: 5%;
+		 }
+/*offline desktop software */
+		 .lap{
+		 	margin-top: 6%;
+		 }
+		 .lap img{
+		 	width: 11%;
+		 	margin-left: 37%;
+		 }
+	 .lap h4{
+	 	margin-top: 3%;
+	 	font-size: 17px;
+	 	margin-left: 25%;
+	 }
+	 .lap p{
+	 	width: 64%;
+	 	 margin-left: 15%;
+	 	 margin-top: 4%;
+	 	 font-size: 13px;
+	 }
+	 .btn-button8{
+	 	background-color:#fff;  
+	 	box-shadow: 4px 4px 4px 4px #d3d3d3;
+	 	width: 25%;
+	 	height: 16%;
+	 	margin-left: 30%;
+	 	margin-top: 5%;
+	 }
+	 /* agent image */
+	 .ag img {
+	 	width: 10%;
+	 	margin-top: 15%;
+	 	margin-left: 43%;
+	 }
+	 .ag h4{
+	 	margin-left: 28%;
+	 	font-size: 16px;
+	 	margin-top: 3%;
+	 }
+	 .ag p{
+	 	font-size: 13px;
+	 	margin-left: 20%;
+	 	margin-top: 2%;
+	 	width: 59%;
+	 }
+	 .btn-button9{
+	 	background-color:#fff;  
+	 	box-shadow: 5px 5px 5px 5px #d3d3d3;
+	 	width: 25%;
+	 	height: 14%;
+	 	margin-left: 36%;
+	 	margin-top: 3%;
+	 }
+	 /* sucription image */
+	 .subs img{
+	 	width: 10%;
+	 	margin-top: 15%;
+	 	margin-left: 38%;
+	 }
+	 .subs h4{
+	 	margin-left: 30%;
+	 	font-size: 16px;
+	 	margin-top: 3%;
+	 }
+	 .subs p{
+	 	font-size: 13px;
+	 	margin-left: 18%;
+	 	margin-top: 2%;
+	 	width: 60%;
+	 }
+	 .btn-button10{
+	 	background-color:#fff;  
+	 	box-shadow: 5px 5px 5px 5px #d3d3d3;
+	 	width: 28%;
+	 	height: 14%;
+	 	margin-left: 30%;
+	 	margin-top: 6%;
+	 }
+	 .padimg{
+	 	background-color:whitesmoke;
+		 	padding: 0px 12px 30px 12px;
+		 	margin-top: 5%;
+		 	margin-bottom: 3%;
+	 }
+	 /* the young boy with round pic image */
+	 .mony img{
+	 	border-radius: 180px;
+	 	width: 75%;
+	 }
+	 .mony h5{
+	 	margin-top: 7%;
+	 	margin-left: 7%;
+	 	letter-spacing: 3px;
+	 	width:105%;
+	 }
+  .btn-button11{
+  	background-color:rgb(134, 165, 27);  
+	 	width: 53%;
+	 	height: 27%;
+	 	margin-left: 60%;
+	 	margin-top: 30%;
+	 	color: white;
+	 	border-radius:0px; 
+	 }
+  .more button:hover{
+  	background-color: #597a0a;
+  	cursor:pointer;
+  }
+  /* connect with us*/
+  .connect{
+  	background-color: rgb(148, 183, 29)
+  }
+  .with {
+  	padding-top: 30px;
+	padding-bottom: 30px;
+  }
+  .with h4 {
+  	color:white;
+  	margin-left: 47%;
+  	margin-top: 10%;
+  }
+  .ul-inst{
+  	margin-left: 5px;
+  }
+  .ul-inst .fa{
+  	color: white;
+	font-size: 50px;
+	margin-right: 20px;
+	margin-top: 10%;
+  }
+  .ul-inst li:hover{
+  	color: #597a0a;
+  }
+  /* we v been featured in */
+  .wee h4{
+  	text-align: center;
+  	margin-left: 2%;
+  	margin-top: 3%;
+  }
+/* images for pulse the guardian and co */
+.pulse {
+	margin-left: 4%;
+	margin-top: 1%;
+}
+.disrupt{
+	margin-left: 2%;
+}
+.techbal{
+	margin-left: 3%;
+	margin-top: 1%;
+}
+.drop{
+	margin-bottom: 4%;
+}
+/* the footer page */
+ .mum{
+	background-color: rgb(45, 62, 80)
+
+}
+.mumm{
+	margin-top: 4%;
+}
+.mumm h4{ 
+	color: rgb(177, 214, 42)
+ }
+ .lii li {
+ 	color: white;
+ 	list-style-type: none;
+ 	font-size: 12px;
+ 	font-family: ubuntu, sans-serif;
+ 	padding: 4px;
+ 	letter-spacing: 1px;
+
+ }
+ .daa{
+ 	margin-top: 4%;
+ }
+ .daa h4{
+ 	color: rgb(177, 214, 42)
+ }
+ .loo li{
+ 	color: white;
+ 	list-style-type: none;
+ 	font-size: 13px;
+ 	font-family: ubuntu, sans-serif;
+ 	padding: 3px;
+ 	letter-spacing: 1px;
+ }
+ .saa{
+ 	/*margin-left: 13%;*/
+ 	margin-top: 4%;
+ }
+ .saa h4{
+ color: rgb(177, 214, 42)	
+ }
+ 
+ .poo li {
+ 	color: white;
+ 	list-style-type: none;
+ 	font-size: 13px;
+ 	font-family: ubuntu, sans-serif;
+ 	padding: 3px;
+ 	letter-spacing: 1px;
+ }
